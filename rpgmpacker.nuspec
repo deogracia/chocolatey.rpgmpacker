@@ -14,7 +14,7 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://github.com/erri120/rpgmpacker</docsUrl>
     <bugTrackerUrl>https://github.com/deogracia/rpgmpacker.chocolatey/issues</bugTrackerUrl>
-    <tags>rpgmpacker rpgmakermv rpgmakermz rpgmaker</tags>
+    <tags>rpgmpacker rpgmakermv rpgmakermz rpgmaker cli</tags>
     <summary>Simple CLI program for packaging RPG Maker games to use in an automated build/deploy pipeline</summary>
     <description>Simple CLI program for packaging RPG Maker games to use in an automated build/deploy pipeline.</description>
     <releaseNotes>https://github.com/deogracia/rpgmpacker.chocolatey/blob/main/Releases_Notes.md</releaseNotes>
