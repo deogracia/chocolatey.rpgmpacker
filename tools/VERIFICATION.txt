@@ -2,7 +2,7 @@
 Verification is intended to assist the Chocolatey moderators and community
 in verifying that this package's contents are trustworthy.
 
- 1. Go to https://github.com/erri120/rpgmpacker/releases/tag/v1.5.4
+ 1. Go to https://github.com/erri120/rpgmpacker/releases/tag/v1.6.0
  2. Downlaod RPGMPacker-Windows.exe
  3. Rename it rpgmpacker.exe
  4. Use one of the following methods to obtain the SHA256 checksum:
@@ -13,6 +13,6 @@ Get-FileHash .\rpgmpacker.exe
 
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
-SHA256          C0A55EF0537446EFC40C522B2CD43F317E25D9E7058FE7D09880CAEC00533560       .\rpgmpacker.exe
+SHA256          6052549BC3DA9D7BEF7013D2355092E4BEBD120B2614737E9C620F3DE305824B       .\rpgmpacker.exe
 
- 5. File License.txt is obtain from https://github.com/erri120/rpgmpacker/blob/v1.5.4/LICENSE
+ 5. File License.txt is obtain from https://github.com/erri120/rpgmpacker/blob/v1.6.0/LICENSE

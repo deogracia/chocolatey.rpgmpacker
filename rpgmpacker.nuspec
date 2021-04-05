@@ -3,8 +3,8 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>rpgmpacker</id>
-    <version>1.5.4</version>
-    <packageSourceUrl>https://github.com/deogracia/rpgmpacker.chocolatey</packageSourceUrl>
+    <version>1.6.0</version>
+    <packageSourceUrl>https://github.com/deogracia/chocolatey.rpgmpacker</packageSourceUrl>
     <owners>deogracia</owners>
     <title>rpgmpacker (Install)</title>
     <authors>erri120</authors>
@@ -13,11 +13,11 @@
     <licenseUrl>https://github.com/erri120/rpgmpacker/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://github.com/erri120/rpgmpacker</docsUrl>
-    <bugTrackerUrl>https://github.com/deogracia/rpgmpacker.chocolatey/issues</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/deogracia/chocolatey.rpgmpacker/issues</bugTrackerUrl>
     <tags>rpgmpacker rpgmakermv rpgmakermz rpgmaker cli</tags>
     <summary>Simple CLI program for packaging RPG Maker games to use in an automated build/deploy pipeline</summary>
     <description>Simple CLI program for packaging RPG Maker games to use in an automated build/deploy pipeline.</description>
-    <releaseNotes>https://github.com/deogracia/rpgmpacker.chocolatey/blob/main/Releases_Notes.md</releaseNotes>
+    <releaseNotes>https://github.com/deogracia/chocolatey.rpgmpacker/blob/main/Releases_Notes.md</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

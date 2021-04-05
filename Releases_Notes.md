@@ -2,6 +2,10 @@
 
 # Unpublished
 
+## 1.6.0-1
+
+* New upstream release
+
 # Published
 
 ## 1.5.4-1
