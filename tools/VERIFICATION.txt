@@ -13,6 +13,6 @@ Get-FileHash .\rpgmpacker.exe
 
 Algorithm       Hash                                                                   Path
 ---------       ----                                                                   ----
-SHA256          6052549BC3DA9D7BEF7013D2355092E4BEBD120B2614737E9C620F3DE305824B       .\rpgmpacker.exe
+SHA256          8DB60EF6A6A252C8A808E6FD4B01E7C9D1B07758558E59859145694091F27098       .\rpgmpacker.exe
 
  5. File License.txt is obtain from https://github.com/erri120/rpgmpacker/blob/v1.6.0/LICENSE
